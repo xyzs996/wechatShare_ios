@@ -49,36 +49,6 @@
             endingLineNumber = "255"
             landmarkName = "-viewDidLoad"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[SendMsgToWeChatViewController viewDidLoad]"
-                  moduleName = "SDKSample"
-                  urlString = "file:///Users/yanqing/Desktop/wechat_sdk_sample_ios/SDKSample/SendMsgToWeChatViewController.m"
-                  timestampString = "424937712.005894"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "255"
-                  endingLineNumber = "255"
-                  offsetFromSymbolStart = "9792">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[SendMsgToWeChatViewController viewDidLoad]"
-                  moduleName = "SDKSample"
-                  urlString = "file:///Users/yanqing/Desktop/wechat_sdk_sample_ios/SDKSample/SendMsgToWeChatViewController.m"
-                  timestampString = "424937713.105334"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "255"
-                  endingLineNumber = "255"
-                  offsetFromSymbolStart = "9780">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -111,36 +81,6 @@
             endingLineNumber = "183"
             landmarkName = "-viewDidLoad"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[RespForWeChatViewController viewDidLoad]"
-                  moduleName = "SDKSample"
-                  urlString = "file:///Users/yanqing/Desktop/wechat_sdk_sample_ios/SDKSample/RespForWeChatViewController.mm"
-                  timestampString = "424937712.012523"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "183"
-                  endingLineNumber = "183"
-                  offsetFromSymbolStart = "5534">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[RespForWeChatViewController viewDidLoad]"
-                  moduleName = "SDKSample"
-                  urlString = "file:///Users/yanqing/Desktop/wechat_sdk_sample_ios/SDKSample/RespForWeChatViewController.mm"
-                  timestampString = "424937713.105824"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "183"
-                  endingLineNumber = "183"
-                  offsetFromSymbolStart = "5522">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

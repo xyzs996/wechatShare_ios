@@ -5,81 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>BAF4B951-2843-493B-8277-188D7D64028C</string>
+	<string>3F48EA73-6D92-4CC4-A43B-4B8A6D8A8269</string>
 	<key>IDESourceControlProjectName</key>
 	<string>SDKSample</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>03B0416A-E426-409E-9A05-B7C97B00F366</key>
-		<string>http://scm-gy.tencent.com/gzrd/gzrd_mail_rep/MicroMsg_proj/trunk/iphone/trunk/SDK_Public/SDKSample/en.lproj</string>
-		<key>0920E340-57F2-49C7-A4FC-18B1CDA82B77</key>
-		<string>http://scm-gy.tencent.com/gzrd/gzrd_mail_rep/MicroMsg_proj/trunk/iphone/trunk/SDK_Public/SDKExport</string>
-		<key>BC43D973-4DC2-47BF-B3E8-578E76901F09</key>
-		<string>http://scm-gy.tencent.com/gzrd/gzrd_mail_rep/MicroMsg_proj/trunk/iphone/trunk/SDK_Public/SDKSample/SDKSample.xcodeproj</string>
+		<key>D551AEE2-4A7A-48DC-BD3E-1FADA4AE3D1E</key>
+		<string>https://github.com/xyzs996/wechatShare_ios.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>project.xcworkspace</string>
+	<string>wechat_sdk_sample_ios/SDKSample/SDKSample.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>03B0416A-E426-409E-9A05-B7C97B00F366</key>
-		<string>../../en.lproj</string>
-		<key>0920E340-57F2-49C7-A4FC-18B1CDA82B77</key>
-		<string>../../../SDKExport</string>
-		<key>BC43D973-4DC2-47BF-B3E8-578E76901F09</key>
-		<string>..</string>
-	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>03B0416A-E426-409E-9A05-B7C97B00F366</key>
-		<string>http://scm-gy.tencent.com/gzrd/gzrd_mail_rep</string>
-		<key>0920E340-57F2-49C7-A4FC-18B1CDA82B77</key>
-		<string>http://scm-gy.tencent.com/gzrd/gzrd_mail_rep</string>
-		<key>BC43D973-4DC2-47BF-B3E8-578E76901F09</key>
-		<string>http://scm-gy.tencent.com/gzrd/gzrd_mail_rep</string>
+		<key>D551AEE2-4A7A-48DC-BD3E-1FADA4AE3D1E</key>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>http://scm-gy.tencent.com/gzrd/gzrd_mail_rep/MicroMsg_proj/trunk/iphone/trunk/SDK_Public/SDKSample/SDKSample.xcodeproj</string>
+	<string>https://github.com/xyzs996/wechatShare_ios.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>BC43D973-4DC2-47BF-B3E8-578E76901F09</string>
+	<string>D551AEE2-4A7A-48DC-BD3E-1FADA4AE3D1E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
-			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
-			<string>MicroMsg_proj/trunk/iphone/tags</string>
-			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
-			<string>MicroMsg_proj/trunk/iphone/trunk</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>03B0416A-E426-409E-9A05-B7C97B00F366</string>
+			<string>D551AEE2-4A7A-48DC-BD3E-1FADA4AE3D1E</string>
 			<key>IDESourceControlWCCName</key>
-			<string>en</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
-			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
-			<string>MicroMsg_proj/trunk/iphone/tags</string>
-			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
-			<string>MicroMsg_proj/trunk/iphone/trunk</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>0920E340-57F2-49C7-A4FC-18B1CDA82B77</string>
-			<key>IDESourceControlWCCName</key>
-			<string>SDKExport</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
-			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
-			<string>MicroMsg_proj/trunk/iphone/tags</string>
-			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
-			<string>MicroMsg_proj/trunk/iphone/trunk</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>BC43D973-4DC2-47BF-B3E8-578E76901F09</string>
-			<key>IDESourceControlWCCName</key>
-			<string>SDKSample</string>
+			<string>wechatShare_ios</string>
 		</dict>
 	</array>
 </dict>
